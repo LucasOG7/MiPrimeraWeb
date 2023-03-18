@@ -1,0 +1,27 @@
+a{
+    font-size: 2rem;
+    text-align: center;
+    text-decoration: none;
+    color: rgb(red, green, blue);
+
+}
+
+h1{
+    color: black;
+}
+li{
+    font-size: 2rem;
+    text-indent: 2;
+}
+
+body{
+    background-image: url(https://s1.1zoom.me/big3/737/Lions_Lioness_Africa_Trunk_tree_Grass_563270_3840x2160.jpg);
+    background-repeat: repeat;
+    color: white;
+}
+
+p{
+    font-size: x-large;
+}
+
+

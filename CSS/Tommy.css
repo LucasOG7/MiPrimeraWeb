@@ -1,0 +1,19 @@
+body{
+    background-image: url(https://img.freepik.com/vector-premium/pescado-patrones-fisuras-sobre-fondo-beige-adorno-minimalista-animales-marinos-plantilla-geometrica-tela-ilustracion-vector-diseno_186802-1632.jpg?w=2000);
+}
+
+img{
+    position: absolute;
+    left: 40%;
+    bottom: 35%;
+}
+
+li{
+    font-size: x-large;
+}
+
+a{
+    font-size: 1rem;
+    text-decoration: none;
+    color: white;
+}
